@@ -12,148 +12,484 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Anida =====
-[1]Anida       |08:35:17 | 11-10-2026| login OK @anidasanvira | score=910 rank=6449
-[1]Anida       |08:35:17 | 11-10-2026| serverTime=2026-10-11T08:35:17.000Z local=2026-10-11T08:35:17.541Z
+[1]Anida       |15:19:10 | 11-10-2026| login OK @anidasanvira | score=950 rank=6169
+[1]Anida       |15:19:10 | 11-10-2026| serverTime=2026-10-11T15:19:10.000Z local=2026-10-11T15:19:10.228Z
 --> [1]Anida menjalankan: Claim Daily
-[1]Anida       |08:35:18 | 11-10-2026| daily: sudah klaim (already=true) score=910
---> [1]Anida menjalankan: Auto All Tasks (3 pending)
-[1]Anida       |08:35:22 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109200714326189385
-[1]Anida       |08:35:22 | 11-10-2026| delay 10s...
-[1]Anida       |08:35:37 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109200752211887486
-[1]Anida       |08:35:37 | 11-10-2026| delay 10s...
-[1]Anida       |08:35:49 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109200765470035840
-[1]Anida       |08:35:49 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Anida       |08:35:51 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/anidasanvira/status/2109200950352308264
+[1]Anida       |15:19:11 | 11-10-2026| daily: OK +10 poin score=960
+--> [1]Anida menjalankan: Auto All Tasks (5 pending)
+[1]Anida       |15:19:12 | 11-10-2026| [1/5] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109302224953029093
+[1]Anida       |15:19:12 | 11-10-2026| delay 10s...
+[1]Anida       |15:19:25 | 11-10-2026| [2/5] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109302391107976961
+[1]Anida       |15:19:25 | 11-10-2026| delay 10s...
+[1]Anida       |15:19:36 | 11-10-2026| [3/5] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109302538681809910
+[1]Anida       |15:19:36 | 11-10-2026| delay 10s...
+[1]Anida       |15:19:49 | 11-10-2026| [4/5] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Anida       |15:19:49 | 11-10-2026| delay 10s...
+[1]Anida       |15:20:01 | 11-10-2026| [5/5] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109302677655810609
+[1]Anida       |15:20:01 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Anida       |15:20:03 | 11-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/anidasanvira/status/2109302507392704250
 --> [1]Anida menjalankan: Watch Anime
-[1]Anida       |08:35:53 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep5
-[1]Anida       |08:35:53 | 11-10-2026| watch [1/2] farming oshi-first-journey...
-[1]Anida       |08:35:55 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Anida       |08:36:02 | 11-10-2026| watch oshi-first-journey: 6% (5.49/87.00s)
-[1]Anida       |08:36:09 | 11-10-2026| watch oshi-first-journey: 13% (11.82/87.00s)
-[1]Anida       |08:36:15 | 11-10-2026| watch oshi-first-journey: 20% (17.65/87.00s)
-[1]Anida       |08:36:21 | 11-10-2026| watch oshi-first-journey: 26% (23.39/87.00s)
-[1]Anida       |08:36:28 | 11-10-2026| watch oshi-first-journey: 33% (29.04/87.00s)
-[1]Anida       |08:36:34 | 11-10-2026| watch oshi-first-journey: 39% (34.75/87.00s)
-[1]Anida       |08:36:41 | 11-10-2026| watch oshi-first-journey: 46% (40.50/87.00s)
-[1]Anida       |08:36:48 | 11-10-2026| watch oshi-first-journey: 53% (46.81/87.00s)
-[1]Anida       |08:36:56 | 11-10-2026| watch oshi-first-journey: 61% (53.52/87.00s)
-[1]Anida       |08:37:03 | 11-10-2026| watch oshi-first-journey: 68% (59.77/87.00s)
-[1]Anida       |08:37:10 | 11-10-2026| watch oshi-first-journey: 75% (65.37/87.00s)
-[1]Anida       |08:37:18 | 11-10-2026| watch oshi-first-journey: 82% (71.84/87.00s)
-[1]Anida       |08:37:25 | 11-10-2026| watch oshi-first-journey: 90% (78.91/87.00s)
-[1]Anida       |08:37:25 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.91/87.00s)
-[1]Anida       |08:37:30 | 11-10-2026| watch [2/2] farming ep5...
-[1]Anida       |08:37:31 | 11-10-2026| watch ep5: mulai dari 0 (record 50.9s diabaikan)
-[1]Anida       |08:37:32 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:37:39 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:37:45 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:37:52 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:38:00 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:38:06 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:38:14 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:38:20 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:38:28 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
-[1]Anida       |08:38:38 | 11-10-2026| watch ep5: 13% (55.42/396.00s)
-[1]Anida       |08:38:46 | 11-10-2026| watch ep5: 16% (63.86/396.00s)
-[1]Anida       |08:38:54 | 11-10-2026| watch ep5: 17% (71.20/396.00s)
-[1]Anida       |08:39:02 | 11-10-2026| watch ep5: 19% (77.79/396.00s)
-[1]Anida       |08:39:11 | 11-10-2026| watch ep5: 21% (85.13/396.00s)
-[1]Anida       |08:39:20 | 11-10-2026| watch ep5: 23% (93.73/396.00s)
-[1]Anida       |08:39:27 | 11-10-2026| watch ep5: 25% (100.78/396.00s)
-[1]Anida       |08:39:35 | 11-10-2026| watch ep5: 27% (107.09/396.00s)
-[1]Anida       |08:39:43 | 11-10-2026| watch ep5: 28% (114.22/396.00s)
-[1]Anida       |08:39:51 | 11-10-2026| watch ep5: 30% (121.54/396.00s)
-[1]Anida       |08:39:59 | 11-10-2026| watch ep5: 32% (128.57/396.00s)
-[1]Anida       |08:40:06 | 11-10-2026| watch ep5: 34% (135.51/396.00s)
-[1]Anida       |08:40:18 | 11-10-2026| watch ep5: 35% (141.77/396.00s)
-[1]Anida       |08:40:25 | 11-10-2026| watch ep5: 38% (150.53/396.00s)
-[1]Anida       |08:40:33 | 11-10-2026| watch ep5: 39% (156.67/396.00s)
-[1]Anida       |08:40:40 | 11-10-2026| watch ep5: 41% (163.04/396.00s)
-[1]Anida       |08:40:47 | 11-10-2026| watch ep5: 42% (169.25/396.00s)
-[1]Anida       |08:40:57 | 11-10-2026| watch ep5: 44% (175.70/396.00s)
-[1]Anida       |08:41:04 | 11-10-2026| watch ep5: 44% (175.70/396.00s)
-[1]Anida       |08:41:10 | 11-10-2026| watch ep5: 45% (181.39/396.00s)
-[1]Anida       |08:41:17 | 11-10-2026| watch ep5: 47% (187.48/396.00s)
-[1]Anida       |08:41:25 | 11-10-2026| watch ep5: 48% (193.64/396.00s)
-[1]Anida       |08:41:34 | 11-10-2026| watch ep5: 50% (200.38/396.00s)
-[1]Anida       |08:41:41 | 11-10-2026| watch ep5: 52% (206.85/396.00s)
-[1]Anida       |08:41:49 | 11-10-2026| watch ep5: 53% (213.31/396.00s)
-[1]Anida       |08:41:56 | 11-10-2026| watch ep5: 55% (220.32/396.00s)
-[1]Anida       |08:42:04 | 11-10-2026| watch ep5: 57% (227.21/396.00s)
-[1]Anida       |08:42:11 | 11-10-2026| watch ep5: 59% (233.97/396.00s)
-[1]Anida       |08:42:21 | 11-10-2026| watch ep5: 60% (240.25/396.00s)
-[1]Anida       |08:42:31 | 11-10-2026| watch ep5: 62% (249.15/396.00s)
-[1]Anida       |08:42:39 | 11-10-2026| watch ep5: 65% (257.58/396.00s)
-[1]Anida       |08:42:46 | 11-10-2026| watch ep5: 66% (264.43/396.00s)
-[1]Anida       |08:42:54 | 11-10-2026| watch ep5: 68% (271.05/396.00s)
-[1]Anida       |08:43:02 | 11-10-2026| watch ep5: 70% (278.56/396.00s)
-[1]Anida       |08:43:09 | 11-10-2026| watch ep5: 72% (285.28/396.00s)
-[1]Anida       |08:43:16 | 11-10-2026| watch ep5: 73% (291.59/396.00s)
-[1]Anida       |08:43:23 | 11-10-2026| watch ep5: 75% (298.29/396.00s)
-[1]Anida       |08:43:31 | 11-10-2026| watch ep5: 76% (304.31/396.00s)
-[1]Anida       |08:43:38 | 11-10-2026| watch ep5: 78% (311.27/396.00s)
-[1]Anida       |08:43:46 | 11-10-2026| watch ep5: 80% (317.49/396.00s)
-[1]Anida       |08:43:55 | 11-10-2026| watch ep5: 82% (325.02/396.00s)
-[1]Anida       |08:44:02 | 11-10-2026| watch ep5: 84% (332.64/396.00s)
-[1]Anida       |08:44:11 | 11-10-2026| watch ep5: 85% (339.33/396.00s)
-[1]Anida       |08:44:25 | 11-10-2026| watch ep5: 87% (347.30/396.00s)
-[1]Anida       |08:44:34 | 11-10-2026| watch ep5: 90% (357.68/396.00s)
-[1]Anida       |08:44:34 | 11-10-2026| watch ep5: COMPLETED (357.68/396.00s)
+[1]Anida       |15:20:04 | 11-10-2026| watch: semua video sudah completed
 --> [1]Anida menjalankan: Read Article
-[1]Anida       |08:44:36 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Anida       |08:44:36 | 11-10-2026| mint eligibility: {"userId":"1850968936218763264","youtube":{"url":"https://www.youtube.com/@anidasanvira","status":"submitted","revision":"22a87ee4-f85f-4b4b-93cc-8d416914e4e2","submittedAt":1791679751,"reviewedAt":17
-[1]Anida       |08:44:36 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Anida       |15:20:05 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Anida       |15:20:06 | 11-10-2026| mint eligibility: {"userId":"1850968936218763264","youtube":{"url":"https://www.youtube.com/@anidasanvira","status":"submitted","revision":"22a87ee4-f85f-4b4b-93cc-8d416914e4e2","submittedAt":1791679751,"reviewedAt":17
+[1]Anida       |15:20:06 | 11-10-2026| news: semua artikel sudah dibaca
 --> [1]Anida menjalankan: Quiz Anime
-[1]Anida       |08:44:38 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Anida       |08:44:38 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Anida       |08:44:38 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Anida       |08:44:38 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Anida       |08:44:40 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Anida       |08:44:43 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Anida       |15:20:06 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Anida       |15:20:06 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Anida       |15:20:06 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Anida       |15:20:06 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Anida       |15:20:06 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Anida       |15:20:06 | 11-10-2026| quiz ep6: sudah dijawab
 --> [1]Anida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Anida       |08:44:47 | 11-10-2026| music memutar "キャンバス" (125s)...
-[1]Anida       |08:44:59 | 11-10-2026| music "キャンバス": 7% (9.0054/125s)
-[1]Anida       |08:45:12 | 11-10-2026| music "キャンバス": 16% (20.397599999999997/125s)
-[1]Anida       |08:45:26 | 11-10-2026| music "キャンバス": 25% (31.821299999999997/125s)
-[1]Anida       |08:45:39 | 11-10-2026| music "キャンバス": 35% (44.6688/125s)
-[1]Anida       |08:45:51 | 11-10-2026| music "キャンバス": 44% (56.0691/125s)
-[1]Anida       |08:46:04 | 11-10-2026| music "キャンバス": 53% (66.78/125s)
-[1]Anida       |08:46:15 | 11-10-2026| music "キャンバス": 62% (78.0786/125s)
-[1]Anida       |08:46:26 | 11-10-2026| music "キャンバス": 70% (88.1442/125s)
-[1]Anida       |08:46:39 | 11-10-2026| music "キャンバス": 78% (98.13419999999999/125s)
-[1]Anida       |08:46:51 | 11-10-2026| music "キャンバス": 88% (110.26979999999999/125s)
-[1]Anida       |08:46:53 | 11-10-2026| music "キャンバス": selesai 110.26979999999999s
-[1]Anida       |08:46:57 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
-[1]Anida       |08:47:10 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0045/153s)
-[1]Anida       |08:47:22 | 11-10-2026| music "ゆっくり帰ろう": 13% (20.8917/153s)
-[1]Anida       |08:47:35 | 11-10-2026| music "ゆっくり帰ろう": 20% (31.5378/153s)
-[1]Anida       |08:47:49 | 11-10-2026| music "ゆっくり帰ろう": 28% (43.7877/153s)
-[1]Anida       |08:47:59 | 11-10-2026| music e2084034-1201-4c8f-aa9e-9a8c5f92be75: heartbeat GAGAL http=503, stop trek
-[1]Anida       |08:47:59 | 11-10-2026| music "ゆっくり帰ろう": selesai 55.7847s
-[1]Anida       |08:47:59 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Anida       |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |15:20:10 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Anida       |15:20:22 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
+[1]Anida       |15:20:33 | 11-10-2026| music "ゆっくり帰ろう": 12% (19.725299999999997/153s)
+[1]Anida       |15:20:44 | 11-10-2026| music "ゆっくり帰ろう": 19% (29.61/153s)
+[1]Anida       |15:20:55 | 11-10-2026| music "ゆっくり帰ろう": 25% (39.5082/153s)
+[1]Anida       |15:21:06 | 11-10-2026| music "ゆっくり帰ろう": 32% (49.5486/153s)
+[1]Anida       |15:21:17 | 11-10-2026| music "ゆっくり帰ろう": 38% (59.6511/153s)
+[1]Anida       |15:21:29 | 11-10-2026| music "ゆっくり帰ろう": 45% (69.5286/153s)
+[1]Anida       |15:21:40 | 11-10-2026| music "ゆっくり帰ろう": 52% (80.3817/153s)
+[1]Anida       |15:21:51 | 11-10-2026| music "ゆっくり帰ろう": 59% (90.6579/153s)
+[1]Anida       |15:22:03 | 11-10-2026| music "ゆっくり帰ろう": 65% (100.5282/153s)
+[1]Anida       |15:22:14 | 11-10-2026| music "ゆっくり帰ろう": 72% (110.6154/153s)
+[1]Anida       |15:22:25 | 11-10-2026| music "ゆっくり帰ろう": 78% (120.5037/153s)
+[1]Anida       |15:22:36 | 11-10-2026| music "ゆっくり帰ろう": 85% (130.71959999999999/153s)
+[1]Anida       |15:22:37 | 11-10-2026| music "ゆっくり帰ろう": selesai 130.71959999999999s
+[1]Anida       |15:22:39 | 11-10-2026| music memutar "うたかた" (185s)...
+[1]Anida       |15:22:50 | 11-10-2026| music "うたかた": 4% (9.001800000000001/185s)
+[1]Anida       |15:23:01 | 11-10-2026| music "うたかた": 10% (18.8667/185s)
+[1]Anida       |15:23:12 | 11-10-2026| music "うたかた": 15% (28.9566/185s)
+[1]Anida       |15:23:23 | 11-10-2026| music "うたかた": 21% (38.88/185s)
+[1]Anida       |15:23:35 | 11-10-2026| music "うたかた": 26% (48.7881/185s)
+[1]Anida       |15:23:47 | 11-10-2026| music "うたかた": 31% (59.1363/185s)
+[1]Anida       |15:23:58 | 11-10-2026| music "うたかた": 37% (70.0749/185s)
+[1]Anida       |15:24:09 | 11-10-2026| music "うたかた": 43% (79.9389/185s)
+[1]Anida       |15:24:20 | 11-10-2026| music "うたかた": 48% (89.82000000000001/185s)
+[1]Anida       |15:24:31 | 11-10-2026| music "うたかた": 53% (99.69480000000001/185s)
+[1]Anida       |15:24:42 | 11-10-2026| music "うたかた": 59% (109.93770000000002/185s)
+[1]Anida       |15:24:53 | 11-10-2026| music "うたかた": 64% (119.83140000000002/185s)
+[1]Anida       |15:25:04 | 11-10-2026| music "うたかた": 70% (129.90240000000003/185s)
+[1]Anida       |15:25:15 | 11-10-2026| music "うたかた": 75% (139.78890000000004/185s)
+[1]Anida       |15:25:26 | 11-10-2026| music "うたかた": 80% (149.67900000000003/185s)
+[1]Anida       |15:25:27 | 11-10-2026| music "うたかた": selesai 149.67900000000003s
+[1]Anida       |15:25:30 | 11-10-2026| music memutar "ぬくもり" (188s)...
+[1]Anida       |15:25:41 | 11-10-2026| music "ぬくもり": 4% (9.0009/188s)
+[1]Anida       |15:25:52 | 11-10-2026| music "ぬくもり": 10% (19.0116/188s)
+[1]Anida       |15:26:03 | 11-10-2026| music "ぬくもり": 15% (29.2617/188s)
+[1]Anida       |15:26:14 | 11-10-2026| music "ぬくもり": 20% (39.210300000000004/188s)
+[1]Anida       |15:26:26 | 11-10-2026| music "ぬくもり": 26% (49.099500000000006/188s)
+[1]Anida       |15:26:38 | 11-10-2026| music "ぬくもり": 31% (59.95530000000001/188s)
+[1]Anida       |15:26:49 | 11-10-2026| music "ぬくもり": 37% (70.0794/188s)
+[1]Anida       |15:27:00 | 11-10-2026| music "ぬくもり": 42% (80.58510000000001/188s)
+[1]Anida       |15:27:12 | 11-10-2026| music "ぬくもり": 48% (90.5049/188s)
+[1]Anida       |15:27:23 | 11-10-2026| music "ぬくもり": 53% (100.6884/188s)
+[1]Anida       |15:27:35 | 11-10-2026| music "ぬくもり": 58% (110.7585/188s)
+[1]Anida       |15:27:46 | 11-10-2026| music "ぬくもり": 64% (121.59989999999999/188s)
+[1]Anida       |15:27:57 | 11-10-2026| music "ぬくもり": 69% (131.50799999999998/188s)
+[1]Anida       |15:28:08 | 11-10-2026| music "ぬくもり": 75% (141.7617/188s)
+[1]Anida       |15:28:19 | 11-10-2026| music "ぬくもり": 80% (151.6959/188s)
+[1]Anida       |15:28:20 | 11-10-2026| music "ぬくもり": selesai 151.6959s
+[1]Anida       |15:28:22 | 11-10-2026| music memutar "桃色の頃" (213s)...
+[1]Anida       |15:28:33 | 11-10-2026| music "桃色の頃": 4% (9.0045/213s)
+[1]Anida       |15:28:44 | 11-10-2026| music "桃色の頃": 8% (18.950400000000002/213s)
+[1]Anida       |15:28:55 | 11-10-2026| music "桃色の頃": 13% (28.945800000000002/213s)
+[1]Anida       |15:29:09 | 11-10-2026| music "桃色の頃": 18% (38.868300000000005/213s)
+[1]Anida       |15:29:20 | 11-10-2026| music "桃色の頃": 23% (50.803200000000004/213s)
+[1]Anida       |15:29:32 | 11-10-2026| music "桃色の頃": 28% (61.22970000000001/213s)
+[1]Anida       |15:29:43 | 11-10-2026| music "桃色の頃": 33% (71.8533/213s)
+[1]Anida       |15:29:54 | 11-10-2026| music "桃色の頃": 38% (81.9648/213s)
+[1]Anida       |15:30:06 | 11-10-2026| music "桃色の頃": 43% (91.9206/213s)
+[1]Anida       |15:30:17 | 11-10-2026| music "桃色の頃": 48% (102.40379999999999/213s)
+[1]Anida       |15:30:28 | 11-10-2026| music "桃色の頃": 52% (112.4091/213s)
+[1]Anida       |15:30:39 | 11-10-2026| music "桃色の頃": 57% (122.4747/213s)
+[1]Anida       |15:30:51 | 11-10-2026| music "桃色の頃": 62% (132.363/213s)
+[1]Anida       |15:31:03 | 11-10-2026| music "桃色の頃": 67% (142.9245/213s)
+[1]Anida       |15:31:14 | 11-10-2026| music "桃色の頃": 72% (153.39329999999998/213s)
+[1]Anida       |15:31:25 | 11-10-2026| music "桃色の頃": 76% (163.4544/213s)
+[1]Anida       |15:31:36 | 11-10-2026| music "桃色の頃": 81% (173.5659/213s)
+[1]Anida       |15:31:37 | 11-10-2026| music "桃色の頃": selesai 173.5659s
+[1]Anida       |15:31:39 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Anida       |15:31:50 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Anida       |15:32:01 | 11-10-2026| music "記憶の名前": 8% (18.875700000000002/224s)
+[1]Anida       |15:32:13 | 11-10-2026| music "記憶の名前": 12% (28.9674/224s)
+[1]Anida       |15:32:24 | 11-10-2026| music "記憶の名前": 17% (39.369600000000005/224s)
+[1]Anida       |15:32:35 | 11-10-2026| music "記憶の名前": 21% (49.25790000000001/224s)
+[1]Anida       |15:32:47 | 11-10-2026| music "記憶の名前": 26% (59.518800000000006/224s)
+[1]Anida       |15:32:58 | 11-10-2026| music "記憶の名前": 31% (69.867/224s)
+[1]Anida       |15:33:09 | 11-10-2026| music "記憶の名前": 35% (79.7517/224s)
+[1]Anida       |15:33:20 | 11-10-2026| music "記憶の名前": 40% (89.6922/224s)
+[1]Anida       |15:33:31 | 11-10-2026| music "記憶の名前": 44% (99.5724/224s)
+[1]Anida       |15:33:43 | 11-10-2026| music "記憶の名前": 48% (109.4949/224s)
+[1]Anida       |15:33:54 | 11-10-2026| music "記憶の名前": 53% (120.2031/224s)
+[1]Anida       |15:34:05 | 11-10-2026| music "記憶の名前": 58% (130.2219/224s)
+[1]Anida       |15:34:19 | 11-10-2026| music "記憶の名前": 62% (140.1048/224s)
+[1]Anida       |15:34:30 | 11-10-2026| music "記憶の名前": 68% (152.8614/224s)
+[1]Anida       |15:34:41 | 11-10-2026| music "記憶の名前": 72% (162.9261/224s)
+[1]Anida       |15:34:52 | 11-10-2026| music "記憶の名前": 77% (172.8054/224s)
+[1]Anida       |15:35:03 | 11-10-2026| music "記憶の名前": 81% (182.67659999999998/224s)
+[1]Anida       |15:35:04 | 11-10-2026| music "記憶の名前": selesai 182.67659999999998s
+[1]Anida       |15:35:08 | 11-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Anida       |15:35:19 | 11-10-2026| music "Smart Pocket": 3% (9.0054/232s)
+[1]Anida       |15:35:29 | 11-10-2026| music "Smart Pocket": 8% (18.9054/232s)
+[1]Anida       |15:35:41 | 11-10-2026| music "Smart Pocket": 12% (28.8009/232s)
+[1]Anida       |15:35:52 | 11-10-2026| music "Smart Pocket": 16% (38.7369/232s)
+[1]Anida       |15:36:04 | 11-10-2026| music "Smart Pocket": 21% (49.250699999999995/232s)
+[1]Anida       |15:36:16 | 11-10-2026| music "Smart Pocket": 25% (60.01199999999999/232s)
+[1]Anida       |15:36:27 | 11-10-2026| music "Smart Pocket": 30% (70.2918/232s)
+[1]Anida       |15:36:39 | 11-10-2026| music "Smart Pocket": 34% (80.9703/232s)
+[1]Anida       |15:36:50 | 11-10-2026| music "Smart Pocket": 39% (91.0791/232s)
+[1]Anida       |15:37:01 | 11-10-2026| music "Smart Pocket": 43% (101.36699999999999/232s)
+[1]Anida       |15:37:12 | 11-10-2026| music "Smart Pocket": 47% (111.25979999999998/232s)
+[1]Anida       |15:37:24 | 11-10-2026| music "Smart Pocket": 52% (121.17599999999999/232s)
+[1]Anida       |15:37:35 | 11-10-2026| music "Smart Pocket": 56% (131.91209999999998/232s)
+[1]Anida       |15:37:46 | 11-10-2026| music "Smart Pocket": 61% (141.81029999999998/232s)
+[1]Anida       |15:37:57 | 11-10-2026| music "Smart Pocket": 65% (151.6986/232s)
+[1]Anida       |15:38:08 | 11-10-2026| music "Smart Pocket": 69% (161.8281/232s)
+[1]Anida       |15:38:19 | 11-10-2026| music "Smart Pocket": 74% (171.6858/232s)
+[1]Anida       |15:38:30 | 11-10-2026| music "Smart Pocket": 78% (181.6101/232s)
+[1]Anida       |15:38:41 | 11-10-2026| music "Smart Pocket": 82% (191.57399999999998/232s)
+[1]Anida       |15:38:42 | 11-10-2026| music "Smart Pocket": selesai 191.57399999999998s
+[1]Anida       |15:38:44 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Anida       |15:38:55 | 11-10-2026| music "神様みたいに": 3% (9.0045/254s)
+[1]Anida       |15:39:06 | 11-10-2026| music "神様みたいに": 7% (18.8775/254s)
+[1]Anida       |15:39:17 | 11-10-2026| music "神様みたいに": 11% (28.785600000000002/254s)
+[1]Anida       |15:39:28 | 11-10-2026| music "神様みたいに": 15% (38.68470000000001/254s)
+[1]Anida       |15:39:39 | 11-10-2026| music "神様みたいに": 19% (48.58200000000001/254s)
+[1]Anida       |15:39:50 | 11-10-2026| music "神様みたいに": 23% (58.591800000000006/254s)
+[1]Anida       |15:40:01 | 11-10-2026| music "神様みたいに": 26% (68.4702/254s)
+[1]Anida       |15:40:12 | 11-10-2026| music "神様みたいに": 30% (78.4881/254s)
+[1]Anida       |15:40:23 | 11-10-2026| music "神様みたいに": 34% (88.3836/254s)
+[1]Anida       |15:40:34 | 11-10-2026| music "神様みたいに": 38% (98.26650000000001/254s)
+[1]Anida       |15:40:45 | 11-10-2026| music "神様みたいに": 42% (108.18450000000001/254s)
+[1]Anida       |15:40:58 | 11-10-2026| music "神様みたいに": 46% (118.23300000000002/254s)
+[1]Anida       |15:41:09 | 11-10-2026| music "神様みたいに": 50% (129.1698/254s)
+[1]Anida       |15:41:20 | 11-10-2026| music "神様みたいに": 54% (139.0797/254s)
+[1]Anida       |15:41:31 | 11-10-2026| music "神様みたいに": 58% (148.9743/254s)
+[1]Anida       |15:41:42 | 11-10-2026| music "神様みたいに": 62% (158.8689/254s)
+[1]Anida       |15:41:53 | 11-10-2026| music "神様みたいに": 66% (169.0479/254s)
+[1]Anida       |15:42:04 | 11-10-2026| music "神様みたいに": 70% (179.0343/254s)
+[1]Anida       |15:42:16 | 11-10-2026| music "神様みたいに": 74% (188.9946/254s)
+[1]Anida       |15:42:27 | 11-10-2026| music "神様みたいに": 78% (199.32479999999998/254s)
+[1]Anida       |15:42:38 | 11-10-2026| music "神様みたいに": 82% (209.48219999999998/254s)
+[1]Anida       |15:42:39 | 11-10-2026| music "神様みたいに": selesai 209.48219999999998s
+[1]Anida       |15:42:41 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Anida       |15:42:53 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Anida       |15:43:04 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.299599999999998/269s)
+[1]Anida       |15:43:15 | 11-10-2026| music "せーので、飛ぼう！": 10% (29.3778/269s)
+[1]Anida       |15:43:26 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.2535/269s)
+[1]Anida       |15:43:37 | 11-10-2026| music "せーので、飛ぼう！": 18% (49.124700000000004/269s)
+[1]Anida       |15:43:48 | 11-10-2026| music "せーので、飛ぼう！": 21% (59.0283/269s)
+[1]Anida       |15:43:59 | 11-10-2026| music "せーので、飛ぼう！": 25% (68.9094/269s)
+[1]Anida       |15:44:10 | 11-10-2026| music "せーので、飛ぼう！": 29% (79.1739/269s)
+[1]Anida       |15:44:21 | 11-10-2026| music "せーので、飛ぼう！": 33% (89.19720000000001/269s)
+[1]Anida       |15:44:32 | 11-10-2026| music "せーので、飛ぼう！": 36% (99.2043/269s)
+[1]Anida       |15:44:43 | 11-10-2026| music "せーので、飛ぼう！": 40% (109.1052/269s)
+[1]Anida       |15:44:54 | 11-10-2026| music "せーので、飛ぼう！": 44% (118.9665/269s)
+[1]Anida       |15:45:05 | 11-10-2026| music "せーので、飛ぼう！": 47% (128.8647/269s)
+[1]Anida       |15:45:17 | 11-10-2026| music "せーので、飛ぼう！": 51% (138.7395/269s)
+[1]Anida       |15:45:28 | 11-10-2026| music "せーので、飛ぼう！": 55% (148.8654/269s)
+[1]Anida       |15:45:39 | 11-10-2026| music "せーので、飛ぼう！": 59% (158.77349999999998/269s)
+[1]Anida       |15:45:50 | 11-10-2026| music "せーので、飛ぼう！": 62% (168.66989999999998/269s)
+[1]Anida       |15:46:01 | 11-10-2026| music "せーので、飛ぼう！": 66% (178.5582/269s)
+[1]Anida       |15:46:12 | 11-10-2026| music "せーので、飛ぼう！": 70% (188.55/269s)
+[1]Anida       |15:46:23 | 11-10-2026| music "せーので、飛ぼう！": 73% (198.5877/269s)
+[1]Anida       |15:46:34 | 11-10-2026| music "せーので、飛ぼう！": 77% (208.5687/269s)
+[1]Anida       |15:46:45 | 11-10-2026| music "せーので、飛ぼう！": 81% (218.92950000000002/269s)
+[1]Anida       |15:46:46 | 11-10-2026| music "せーので、飛ぼう！": selesai 218.92950000000002s
+[1]Anida       |15:46:50 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Anida       |15:47:01 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0045/276s)
+[1]Anida       |15:47:12 | 11-10-2026| music "ON CHAIN NEXUS": 6% (18.9036/276s)
+[1]Anida       |15:47:23 | 11-10-2026| music "ON CHAIN NEXUS": 10% (29.168100000000003/276s)
+[1]Anida       |15:47:34 | 11-10-2026| music "ON CHAIN NEXUS": 14% (39.1437/276s)
+[1]Anida       |15:47:45 | 11-10-2026| music "ON CHAIN NEXUS": 17% (49.0158/276s)
+[1]Anida       |15:47:56 | 11-10-2026| music "ON CHAIN NEXUS": 21% (58.9203/276s)
+[1]Anida       |15:48:07 | 11-10-2026| music "ON CHAIN NEXUS": 24% (68.88419999999999/276s)
+[1]Anida       |15:48:19 | 11-10-2026| music "ON CHAIN NEXUS": 28% (78.7653/276s)
+[1]Anida       |15:48:30 | 11-10-2026| music "ON CHAIN NEXUS": 32% (88.983/276s)
+[1]Anida       |15:48:41 | 11-10-2026| music "ON CHAIN NEXUS": 35% (98.92710000000001/276s)
+[1]Anida       |15:48:52 | 11-10-2026| music "ON CHAIN NEXUS": 39% (108.88380000000001/276s)
+[1]Anida       |15:49:03 | 11-10-2026| music "ON CHAIN NEXUS": 43% (119.1375/276s)
+[1]Anida       |15:49:15 | 11-10-2026| music "ON CHAIN NEXUS": 46% (129.0555/276s)
+[1]Anida       |15:49:27 | 11-10-2026| music "ON CHAIN NEXUS": 50% (140.0283/276s)
+[1]Anida       |15:49:38 | 11-10-2026| music "ON CHAIN NEXUS": 54% (150.1344/276s)
+[1]Anida       |15:49:50 | 11-10-2026| music "ON CHAIN NEXUS": 58% (160.2459/276s)
+[1]Anida       |15:50:01 | 11-10-2026| music "ON CHAIN NEXUS": 61% (170.775/276s)
+[1]Anida       |15:50:12 | 11-10-2026| music "ON CHAIN NEXUS": 65% (180.69480000000001/276s)
+[1]Anida       |15:50:24 | 11-10-2026| music "ON CHAIN NEXUS": 69% (190.61010000000002/276s)
+[1]Anida       |15:50:35 | 11-10-2026| music "ON CHAIN NEXUS": 72% (201.36780000000002/276s)
+[1]Anida       |15:50:46 | 11-10-2026| music "ON CHAIN NEXUS": 76% (211.2795/276s)
+[1]Anida       |15:50:57 | 11-10-2026| music "ON CHAIN NEXUS": 80% (221.44140000000002/276s)
+[1]Anida       |15:50:57 | 11-10-2026| music "ON CHAIN NEXUS": selesai 221.44140000000002s
+[1]Anida       |15:50:59 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Anida       |15:51:01 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Anida       |15:51:05 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Anida       |15:51:09 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Anida menjalankan: Claim Missions
-[1]Anida       |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |15:51:12 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Anida       |15:51:12 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Anida       |15:51:12 | 11-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anida menjalankan: Check Eligibility
 
 --- eligibility [1]Anida ---
-  @anidasanvira | score=910 rank=6449
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @anidasanvira | score=950 rank=6169
+  tasks    [###################-] 75/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Anida menjalankan: Read Manga
-[1]Anida       |08:48:00 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |15:51:16 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Anida       |15:51:16 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Anida       |15:51:22 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Anida       |15:51:26 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 4s
+[1]Anida       |15:51:31 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Anida       |15:51:36 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Anida       |15:51:40 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 19s
+[1]Anida       |15:51:45 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 23s
+[1]Anida       |15:51:49 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 27s
+[1]Anida       |15:51:54 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 32s
+[1]Anida       |15:51:59 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 37s
+[1]Anida       |15:52:03 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 41s
+[1]Anida       |15:52:08 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 46s
+[1]Anida       |15:52:12 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 51s
+[1]Anida       |15:52:17 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 55s
+[1]Anida       |15:52:21 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 60s
+[1]Anida       |15:52:26 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 64s
+[1]Anida       |15:52:31 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 69s
+[1]Anida       |15:52:36 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 73s
+[1]Anida       |15:52:40 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 79s
+[1]Anida       |15:52:45 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 83s
+[1]Anida       |15:52:49 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Anida       |15:52:52 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Anida       |15:52:58 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Anida       |15:53:03 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Anida       |15:53:08 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Anida       |15:53:12 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Anida       |15:53:17 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
+[1]Anida       |15:53:21 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
+[1]Anida       |15:53:26 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
+[1]Anida       |15:53:31 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 33s
+[1]Anida       |15:53:36 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
+[1]Anida       |15:53:40 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
+[1]Anida       |15:53:45 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 46s
+[1]Anida       |15:53:49 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
+[1]Anida       |15:53:54 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 56s
+[1]Anida       |15:53:59 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 61s
+[1]Anida       |15:54:03 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 65s
+[1]Anida       |15:54:08 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 70s
+[1]Anida       |15:54:12 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 74s
+[1]Anida       |15:54:17 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 79s
+[1]Anida       |15:54:22 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Anida       |15:54:25 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Anida       |15:54:30 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Anida       |15:54:34 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
+[1]Anida       |15:54:39 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Anida       |15:54:44 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 13s
+[1]Anida       |15:54:48 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
+[1]Anida       |15:54:52 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 22s
+[1]Anida       |15:54:57 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 27s
+[1]Anida       |15:55:02 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 31s
+[1]Anida       |15:55:06 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 36s
+[1]Anida       |15:55:11 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 41s
+[1]Anida       |15:55:16 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 45s
+[1]Anida       |15:55:20 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 50s
+[1]Anida       |15:55:25 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 55s
+[1]Anida       |15:55:30 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 60s
+[1]Anida       |15:55:36 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 64s
+[1]Anida       |15:55:40 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 70s
+[1]Anida       |15:55:45 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 75s
+[1]Anida       |15:55:50 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Anida       |15:55:53 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Anida       |15:55:58 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Anida       |15:56:03 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Anida       |15:56:08 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Anida       |15:56:12 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Anida       |15:56:17 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 18s
+[1]Anida       |15:56:21 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
+[1]Anida       |15:56:26 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
+[1]Anida       |15:56:30 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 32s
+[1]Anida       |15:56:35 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 37s
+[1]Anida       |15:56:39 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 41s
+[1]Anida       |15:56:44 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 46s
+[1]Anida       |15:56:48 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 50s
+[1]Anida       |15:56:53 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 54s
+[1]Anida       |15:56:57 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 59s
+[1]Anida       |15:57:02 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 64s
+[1]Anida       |15:57:06 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 68s
+[1]Anida       |15:57:11 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 73s
+[1]Anida       |15:57:16 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Anida       |15:57:19 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Anida       |15:57:25 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Anida       |15:57:29 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
+[1]Anida       |15:57:33 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Anida       |15:57:38 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 13s
+[1]Anida       |15:57:42 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
+[1]Anida       |15:57:47 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 22s
+[1]Anida       |15:57:52 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 27s
+[1]Anida       |15:57:56 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 32s
+[1]Anida       |15:58:01 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 36s
+[1]Anida       |15:58:05 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 41s
+[1]Anida       |15:58:10 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 45s
+[1]Anida       |15:58:14 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 49s
+[1]Anida       |15:58:18 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 54s
+[1]Anida       |15:58:23 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 58s
+[1]Anida       |15:58:27 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 63s
+[1]Anida       |15:58:32 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 67s
+[1]Anida       |15:58:36 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 72s
+[1]Anida       |15:58:41 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 76s
+[1]Anida       |15:58:46 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Anida       |15:58:49 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Anida       |15:58:54 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Anida       |15:58:59 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 4s
+[1]Anida       |15:59:03 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Anida       |15:59:08 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 13s
+[1]Anida       |15:59:12 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
+[1]Anida       |15:59:17 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
+[1]Anida       |15:59:21 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
+[1]Anida       |15:59:26 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
+[1]Anida       |15:59:31 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
+[1]Anida       |15:59:35 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
+[1]Anida       |15:59:39 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 45s
+[1]Anida       |15:59:44 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 50s
+[1]Anida       |15:59:49 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 54s
+[1]Anida       |15:59:53 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 59s
+[1]Anida       |15:59:58 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 64s
+[1]Anida       |16:00:02 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 68s
+[1]Anida       |16:00:07 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 73s
+[1]Anida       |16:00:11 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Anida       |16:00:14 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Anida       |16:00:20 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Anida       |16:00:24 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
+[1]Anida       |16:00:29 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Anida       |16:00:34 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 13s
+[1]Anida       |16:00:39 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
+[1]Anida       |16:00:44 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
+[1]Anida       |16:00:48 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 29s
+[1]Anida       |16:00:53 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 33s
+[1]Anida       |16:00:57 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 38s
+[1]Anida       |16:01:02 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 42s
+[1]Anida       |16:01:07 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 47s
+[1]Anida       |16:01:12 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 51s
+[1]Anida       |16:01:16 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 56s
+[1]Anida       |16:01:20 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 61s
+[1]Anida       |16:01:26 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 65s
+[1]Anida       |16:01:30 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 70s
+[1]Anida       |16:01:35 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 75s
+[1]Anida       |16:01:39 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 79s
+[1]Anida       |16:01:44 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 84s
+[1]Anida       |16:01:48 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 89s
+[1]Anida       |16:01:54 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 93s
+[1]Anida       |16:01:59 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Anida       |16:02:02 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Anida       |16:02:08 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Anida       |16:02:13 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Anida       |16:02:17 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
+[1]Anida       |16:02:22 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 15s
+[1]Anida       |16:02:26 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
+[1]Anida       |16:02:31 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
+[1]Anida       |16:02:36 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
+[1]Anida       |16:02:41 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
+[1]Anida       |16:02:45 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 38s
+[1]Anida       |16:02:50 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 43s
+[1]Anida       |16:02:54 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 47s
+[1]Anida       |16:02:59 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 52s
+[1]Anida       |16:03:03 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 56s
+[1]Anida       |16:03:08 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 60s
+[1]Anida       |16:03:12 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 65s
+[1]Anida       |16:03:18 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 69s
+[1]Anida       |16:03:23 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 76s
+[1]Anida       |16:03:27 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 80s
+[1]Anida       |16:03:32 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Anida       |16:03:35 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Anida       |16:03:41 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Anida       |16:03:48 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
+[1]Anida       |16:03:53 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 11s
+[1]Anida       |16:03:57 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 16s
+[1]Anida       |16:04:02 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 21s
+[1]Anida       |16:04:06 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 26s
+[1]Anida       |16:04:11 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 30s
+[1]Anida       |16:04:16 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 35s
+[1]Anida       |16:04:21 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 39s
+[1]Anida       |16:04:26 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 45s
+[1]Anida       |16:04:30 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 49s
+[1]Anida       |16:04:35 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 54s
+[1]Anida       |16:04:39 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 58s
+[1]Anida       |16:04:44 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 63s
+[1]Anida       |16:04:49 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 68s
+[1]Anida       |16:04:54 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 72s
+[1]Anida       |16:04:58 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 77s
+[1]Anida       |16:05:03 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 82s
+[1]Anida       |16:05:08 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 87s
+[1]Anida       |16:05:12 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 91s
+[1]Anida       |16:05:17 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Anida       |16:05:20 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Anida       |16:05:26 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Anida       |16:05:30 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
+[1]Anida       |16:05:35 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
+[1]Anida       |16:05:39 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
+[1]Anida       |16:05:44 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 18s
+[1]Anida       |16:05:48 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 23s
+[1]Anida       |16:05:53 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 27s
+[1]Anida       |16:05:58 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 32s
+[1]Anida       |16:06:02 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 37s
+[1]Anida       |16:06:07 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Anida       |16:06:10 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Anida       |16:06:15 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Anida       |16:06:21 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 4s
+[1]Anida       |16:06:26 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 10s
+[1]Anida       |16:06:31 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 15s
+[1]Anida       |16:06:35 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 20s
+[1]Anida       |16:06:40 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
+[1]Anida       |16:06:44 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 29s
+[1]Anida       |16:06:49 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 33s
+[1]Anida       |16:06:53 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 38s
+[1]Anida       |16:06:58 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
+[1]Anida       |16:07:02 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Anida       |16:07:05 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Anida       |16:07:11 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Anida       |16:07:15 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Anida       |16:07:20 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Anida       |16:07:25 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 13s
+[1]Anida       |16:07:29 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Anida       |16:07:35 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
+[1]Anida       |16:07:40 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 29s
+[1]Anida       |16:07:44 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 33s
+[1]Anida       |16:07:49 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 38s
+[1]Anida       |16:07:53 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 42s
+[1]Anida       |16:07:58 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 47s
+[1]Anida       |16:08:03 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Anida       |16:08:06 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Anida       |16:08:13 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Anida       |16:08:18 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 6s
+[1]Anida       |16:08:23 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 11s
+[1]Anida       |16:08:27 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 16s
+[1]Anida       |16:08:32 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 20s
+[1]Anida       |16:08:37 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 24s
+[1]Anida       |16:08:42 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 30s
+[1]Anida       |16:08:47 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 35s
+[1]Anida       |16:08:51 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 40s
+[1]Anida       |16:08:57 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 44s
+[1]Anida       |16:09:02 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 50s
+[1]Anida       |16:09:06 | 11-10-2026| manga ch3 (2550001): COMPLETED
 --> [1]Anida menjalankan: Get Gift
-[1]Anida       |08:48:01 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |16:09:10 | 11-10-2026| gift: 3/3 belum diterima
+[1]Anida       |16:09:11 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Anida       |16:09:14 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Anida       |16:09:17 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
 --> [1]Anida menjalankan: Setup Profile
-[1]Anida       |08:48:01 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |16:09:19 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Anida       |16:09:20 | 11-10-2026| profile: OK bio="https://x.com/anidasanvira" fav=mony awarded=true +10pt
 --> [1]Anida menjalankan: Bind Wallet
-[1]Anida       |08:48:01 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |16:09:21 | 11-10-2026| wallet: derivasi dari privateKeySolana -> Fbd5SE3Tugo9KVPadqBLHv7ATk3nUqc4My7UrUX1188a (cek cocok dengan wallet kamu!)
+[1]Anida       |16:09:22 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Anida       |16:09:23 | 11-10-2026| wallet: /api/sol-address OK
 
 == RINGKASAN ==
-- Anida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 2/2 completed | musik 2 trek ~166.0545s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Anida: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 9 trek ~1629.7640999999999s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
