@@ -1,0 +1,159 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VBbmlkYQ/c21hcG9ja2VBbmlkYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Anida =====
+[1]Anida       |08:35:17 | 11-10-2026| login OK @anidasanvira | score=910 rank=6449
+[1]Anida       |08:35:17 | 11-10-2026| serverTime=2026-10-11T08:35:17.000Z local=2026-10-11T08:35:17.541Z
+--> [1]Anida menjalankan: Claim Daily
+[1]Anida       |08:35:18 | 11-10-2026| daily: sudah klaim (already=true) score=910
+--> [1]Anida menjalankan: Auto All Tasks (3 pending)
+[1]Anida       |08:35:22 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109200714326189385
+[1]Anida       |08:35:22 | 11-10-2026| delay 10s...
+[1]Anida       |08:35:37 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109200752211887486
+[1]Anida       |08:35:37 | 11-10-2026| delay 10s...
+[1]Anida       |08:35:49 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anidasanvira/status/2109200765470035840
+[1]Anida       |08:35:49 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Anida       |08:35:51 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/anidasanvira/status/2109200950352308264
+--> [1]Anida menjalankan: Watch Anime
+[1]Anida       |08:35:53 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep5
+[1]Anida       |08:35:53 | 11-10-2026| watch [1/2] farming oshi-first-journey...
+[1]Anida       |08:35:55 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Anida       |08:36:02 | 11-10-2026| watch oshi-first-journey: 6% (5.49/87.00s)
+[1]Anida       |08:36:09 | 11-10-2026| watch oshi-first-journey: 13% (11.82/87.00s)
+[1]Anida       |08:36:15 | 11-10-2026| watch oshi-first-journey: 20% (17.65/87.00s)
+[1]Anida       |08:36:21 | 11-10-2026| watch oshi-first-journey: 26% (23.39/87.00s)
+[1]Anida       |08:36:28 | 11-10-2026| watch oshi-first-journey: 33% (29.04/87.00s)
+[1]Anida       |08:36:34 | 11-10-2026| watch oshi-first-journey: 39% (34.75/87.00s)
+[1]Anida       |08:36:41 | 11-10-2026| watch oshi-first-journey: 46% (40.50/87.00s)
+[1]Anida       |08:36:48 | 11-10-2026| watch oshi-first-journey: 53% (46.81/87.00s)
+[1]Anida       |08:36:56 | 11-10-2026| watch oshi-first-journey: 61% (53.52/87.00s)
+[1]Anida       |08:37:03 | 11-10-2026| watch oshi-first-journey: 68% (59.77/87.00s)
+[1]Anida       |08:37:10 | 11-10-2026| watch oshi-first-journey: 75% (65.37/87.00s)
+[1]Anida       |08:37:18 | 11-10-2026| watch oshi-first-journey: 82% (71.84/87.00s)
+[1]Anida       |08:37:25 | 11-10-2026| watch oshi-first-journey: 90% (78.91/87.00s)
+[1]Anida       |08:37:25 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.91/87.00s)
+[1]Anida       |08:37:30 | 11-10-2026| watch [2/2] farming ep5...
+[1]Anida       |08:37:31 | 11-10-2026| watch ep5: mulai dari 0 (record 50.9s diabaikan)
+[1]Anida       |08:37:32 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:37:39 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:37:45 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:37:52 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:38:00 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:38:06 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:38:14 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:38:20 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:38:28 | 11-10-2026| watch ep5: 12% (50.91/396.00s)
+[1]Anida       |08:38:38 | 11-10-2026| watch ep5: 13% (55.42/396.00s)
+[1]Anida       |08:38:46 | 11-10-2026| watch ep5: 16% (63.86/396.00s)
+[1]Anida       |08:38:54 | 11-10-2026| watch ep5: 17% (71.20/396.00s)
+[1]Anida       |08:39:02 | 11-10-2026| watch ep5: 19% (77.79/396.00s)
+[1]Anida       |08:39:11 | 11-10-2026| watch ep5: 21% (85.13/396.00s)
+[1]Anida       |08:39:20 | 11-10-2026| watch ep5: 23% (93.73/396.00s)
+[1]Anida       |08:39:27 | 11-10-2026| watch ep5: 25% (100.78/396.00s)
+[1]Anida       |08:39:35 | 11-10-2026| watch ep5: 27% (107.09/396.00s)
+[1]Anida       |08:39:43 | 11-10-2026| watch ep5: 28% (114.22/396.00s)
+[1]Anida       |08:39:51 | 11-10-2026| watch ep5: 30% (121.54/396.00s)
+[1]Anida       |08:39:59 | 11-10-2026| watch ep5: 32% (128.57/396.00s)
+[1]Anida       |08:40:06 | 11-10-2026| watch ep5: 34% (135.51/396.00s)
+[1]Anida       |08:40:18 | 11-10-2026| watch ep5: 35% (141.77/396.00s)
+[1]Anida       |08:40:25 | 11-10-2026| watch ep5: 38% (150.53/396.00s)
+[1]Anida       |08:40:33 | 11-10-2026| watch ep5: 39% (156.67/396.00s)
+[1]Anida       |08:40:40 | 11-10-2026| watch ep5: 41% (163.04/396.00s)
+[1]Anida       |08:40:47 | 11-10-2026| watch ep5: 42% (169.25/396.00s)
+[1]Anida       |08:40:57 | 11-10-2026| watch ep5: 44% (175.70/396.00s)
+[1]Anida       |08:41:04 | 11-10-2026| watch ep5: 44% (175.70/396.00s)
+[1]Anida       |08:41:10 | 11-10-2026| watch ep5: 45% (181.39/396.00s)
+[1]Anida       |08:41:17 | 11-10-2026| watch ep5: 47% (187.48/396.00s)
+[1]Anida       |08:41:25 | 11-10-2026| watch ep5: 48% (193.64/396.00s)
+[1]Anida       |08:41:34 | 11-10-2026| watch ep5: 50% (200.38/396.00s)
+[1]Anida       |08:41:41 | 11-10-2026| watch ep5: 52% (206.85/396.00s)
+[1]Anida       |08:41:49 | 11-10-2026| watch ep5: 53% (213.31/396.00s)
+[1]Anida       |08:41:56 | 11-10-2026| watch ep5: 55% (220.32/396.00s)
+[1]Anida       |08:42:04 | 11-10-2026| watch ep5: 57% (227.21/396.00s)
+[1]Anida       |08:42:11 | 11-10-2026| watch ep5: 59% (233.97/396.00s)
+[1]Anida       |08:42:21 | 11-10-2026| watch ep5: 60% (240.25/396.00s)
+[1]Anida       |08:42:31 | 11-10-2026| watch ep5: 62% (249.15/396.00s)
+[1]Anida       |08:42:39 | 11-10-2026| watch ep5: 65% (257.58/396.00s)
+[1]Anida       |08:42:46 | 11-10-2026| watch ep5: 66% (264.43/396.00s)
+[1]Anida       |08:42:54 | 11-10-2026| watch ep5: 68% (271.05/396.00s)
+[1]Anida       |08:43:02 | 11-10-2026| watch ep5: 70% (278.56/396.00s)
+[1]Anida       |08:43:09 | 11-10-2026| watch ep5: 72% (285.28/396.00s)
+[1]Anida       |08:43:16 | 11-10-2026| watch ep5: 73% (291.59/396.00s)
+[1]Anida       |08:43:23 | 11-10-2026| watch ep5: 75% (298.29/396.00s)
+[1]Anida       |08:43:31 | 11-10-2026| watch ep5: 76% (304.31/396.00s)
+[1]Anida       |08:43:38 | 11-10-2026| watch ep5: 78% (311.27/396.00s)
+[1]Anida       |08:43:46 | 11-10-2026| watch ep5: 80% (317.49/396.00s)
+[1]Anida       |08:43:55 | 11-10-2026| watch ep5: 82% (325.02/396.00s)
+[1]Anida       |08:44:02 | 11-10-2026| watch ep5: 84% (332.64/396.00s)
+[1]Anida       |08:44:11 | 11-10-2026| watch ep5: 85% (339.33/396.00s)
+[1]Anida       |08:44:25 | 11-10-2026| watch ep5: 87% (347.30/396.00s)
+[1]Anida       |08:44:34 | 11-10-2026| watch ep5: 90% (357.68/396.00s)
+[1]Anida       |08:44:34 | 11-10-2026| watch ep5: COMPLETED (357.68/396.00s)
+--> [1]Anida menjalankan: Read Article
+[1]Anida       |08:44:36 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Anida       |08:44:36 | 11-10-2026| mint eligibility: {"userId":"1850968936218763264","youtube":{"url":"https://www.youtube.com/@anidasanvira","status":"submitted","revision":"22a87ee4-f85f-4b4b-93cc-8d416914e4e2","submittedAt":1791679751,"reviewedAt":17
+[1]Anida       |08:44:36 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Anida menjalankan: Quiz Anime
+[1]Anida       |08:44:38 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Anida       |08:44:38 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Anida       |08:44:38 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Anida       |08:44:38 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Anida       |08:44:40 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Anida       |08:44:43 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Anida menjalankan: Music Missions (realtime, bisa lama!)
+[1]Anida       |08:44:47 | 11-10-2026| music memutar "キャンバス" (125s)...
+[1]Anida       |08:44:59 | 11-10-2026| music "キャンバス": 7% (9.0054/125s)
+[1]Anida       |08:45:12 | 11-10-2026| music "キャンバス": 16% (20.397599999999997/125s)
+[1]Anida       |08:45:26 | 11-10-2026| music "キャンバス": 25% (31.821299999999997/125s)
+[1]Anida       |08:45:39 | 11-10-2026| music "キャンバス": 35% (44.6688/125s)
+[1]Anida       |08:45:51 | 11-10-2026| music "キャンバス": 44% (56.0691/125s)
+[1]Anida       |08:46:04 | 11-10-2026| music "キャンバス": 53% (66.78/125s)
+[1]Anida       |08:46:15 | 11-10-2026| music "キャンバス": 62% (78.0786/125s)
+[1]Anida       |08:46:26 | 11-10-2026| music "キャンバス": 70% (88.1442/125s)
+[1]Anida       |08:46:39 | 11-10-2026| music "キャンバス": 78% (98.13419999999999/125s)
+[1]Anida       |08:46:51 | 11-10-2026| music "キャンバス": 88% (110.26979999999999/125s)
+[1]Anida       |08:46:53 | 11-10-2026| music "キャンバス": selesai 110.26979999999999s
+[1]Anida       |08:46:57 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Anida       |08:47:10 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0045/153s)
+[1]Anida       |08:47:22 | 11-10-2026| music "ゆっくり帰ろう": 13% (20.8917/153s)
+[1]Anida       |08:47:35 | 11-10-2026| music "ゆっくり帰ろう": 20% (31.5378/153s)
+[1]Anida       |08:47:49 | 11-10-2026| music "ゆっくり帰ろう": 28% (43.7877/153s)
+[1]Anida       |08:47:59 | 11-10-2026| music e2084034-1201-4c8f-aa9e-9a8c5f92be75: heartbeat GAGAL http=503, stop trek
+[1]Anida       |08:47:59 | 11-10-2026| music "ゆっくり帰ろう": selesai 55.7847s
+[1]Anida       |08:47:59 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Anida       |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Anida menjalankan: Claim Missions
+[1]Anida       |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Anida menjalankan: Check Eligibility
+
+--- eligibility [1]Anida ---
+  @anidasanvira | score=910 rank=6449
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Anida menjalankan: Read Manga
+[1]Anida       |08:48:00 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Anida menjalankan: Get Gift
+[1]Anida       |08:48:01 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Anida menjalankan: Setup Profile
+[1]Anida       |08:48:01 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Anida menjalankan: Bind Wallet
+[1]Anida       |08:48:01 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Anida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 2/2 completed | musik 2 trek ~166.0545s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
